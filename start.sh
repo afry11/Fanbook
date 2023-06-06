@@ -1,4 +1,4 @@
-set -gu
+set -eu
 
 export PYTHONUNBUFFERED=true
 
